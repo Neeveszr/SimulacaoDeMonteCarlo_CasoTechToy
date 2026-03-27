@@ -1,6 +1,6 @@
 # Simulação de Monte Carlo — Caso TechToy
 
-**5º Período — FSA**  
+**5º Período — UNIFSA**  
 **Disciplina: Análise Avançada de Dados**
 
 ## Descrição da Atividade
